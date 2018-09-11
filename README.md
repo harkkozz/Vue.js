@@ -1,5 +1,5 @@
 # Vue.js
-TO-DO List
+TO-DO List Reactive and nice animated
 
 Run it ->
 
